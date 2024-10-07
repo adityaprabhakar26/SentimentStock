@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import time
 
 API_URL = "https://api-inference.huggingface.co/models/zhayunduo/roberta-base-stocktwits-finetuned"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": -Redacted-}
 f = open("text.txt", "w")
 f.close()
 def query(payload):
