@@ -3,4 +3,4 @@ This project is a collection of code used for my independent research project an
 
 There is a webscraper file, a file which uses a HuggingFace NLP to analyze sentiment,a few correlation ones back when I was trying linear regression, and then a few LSTM models I built
 
-The files are pretty messy since this was scrapy work from mid 2023, as it was my first experience with actually creating a project. Sorry about the mess, and how the structure is pretty flawed. 
+The files are pretty messy since this was scrapy work, it was my first experience with actually creating a full project. Sorry about the mess, and how the structure is pretty flawed. 
